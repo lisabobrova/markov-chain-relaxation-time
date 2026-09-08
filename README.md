@@ -23,7 +23,3 @@ The project covers:
 - Theodoros Theodoulou
 - Aimilia Kokkinofta
 - Elisaveta Bobrova
-
-## Report
-
-The full project report is available in this repository.
